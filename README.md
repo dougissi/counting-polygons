@@ -56,6 +56,6 @@ I won't go into all the details here, so take a good look at the source code in 
 for my solution to those two cases.
 
 ## Code Examples
-Here is a <a href="https://www.dougissi.com/counting-polygons/jupyter-notebook.html" target="_blank">link to a Jupyter Notebook</a> with a Python module that counts and visually identifies the triangles, quadrilaterals, and pentagons in a node graph.
+Here is a <a href="https://www.dougissi.com/counting-polygons/jupyter-notebook.html" target="_blank">link to a Jupyter Notebook</a> with a Python module that counts and visually identifies the triangles, quadrilaterals, and pentagons in a node graph. The source code is at the bottom of the notebook.
 
 Or you can download a copy of the .ipynb file [here](/assets/counting-polygons-in-node-graphs.ipynb).
